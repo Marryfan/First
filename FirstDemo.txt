@@ -1,2 +1,4 @@
-#hello
+﻿#utf-8
+hello
 This is a demo
+苹果
